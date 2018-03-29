@@ -4,7 +4,9 @@
         "details": [
             {
                 "appID": "V7F8PE3B8L.com.bestbuy.BestBuy",
-                "paths": [ "/augment/*"]
+                "paths": [
+                    "/augment/*"
+                ]
             }
         ]
     }
