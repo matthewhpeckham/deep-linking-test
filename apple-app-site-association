@@ -5,7 +5,7 @@
             {
                 "appID": "V7F8PE3B8L.com.bestbuy.BestBuy.QAProd",
                 "paths": [
-                    "*"
+                    "/augment"
                 ]
             }
         ]
